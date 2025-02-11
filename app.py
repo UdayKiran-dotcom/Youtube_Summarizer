@@ -63,4 +63,4 @@ if st.button("Get Detailed Notes"):
         except Exception as e:
             st.error(f"⚠️ An error occurred: {e}")
 
-st.markdown("---")
+
